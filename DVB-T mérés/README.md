@@ -12,4 +12,4 @@
 - Antenna magassága: 1.2 m
 - Környezet jellemzői: V3 labor, városi körülmények között
 - Adó távolsága: 799.56 m
-![Adó-Vevő távolság](táv.jpg)
+![Adó-Vevő távolság](táv.png)
