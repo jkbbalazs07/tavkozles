@@ -20,7 +20,7 @@
 | Adó frekvencia	| 634 MHz |
 |Sávszélesség|	8MHz|
 |Moduláció típusa|	DVBT, QPSK, 8K, 1/32|
-|Jelerősség| (RSSI)	63.8 dBu|
+|Jelerősség| (RSSI)	50 dBu|
 |MER|	23.1 dB|
 |Noise Margin|	19.2|
 |Hiba nélkül vett adás időtartama|	400 sec|
